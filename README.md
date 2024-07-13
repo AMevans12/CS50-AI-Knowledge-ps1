@@ -29,7 +29,7 @@ cd Knowledge
 Run the Knights project:
 python knights.py
 
-####Run the Minesweeper project:
+Run the Minesweeper project:
 python minesweeper.py
 
 ## How to Run
@@ -39,18 +39,21 @@ python minesweeper.py
    git clone https://github.com/yourusername/Knowledge.git
 
 
-##Contributing
+Usage
+-Navigate to the respective project directory (knights or minesweeper).
+-Run the Python scripts:
 
+python knights.py
+python minesweeper.py
+
+Contributing
 If you would like to contribute to the projects or suggest improvements, please create a pull request or open an issue.
 
-##License
-
+License
 This repository is licensed under the MIT License. See the LICENSE file for more details.
 
-##Acknowledgments
+Acknowledgments
+Thanks to Harvard's CS50 course for the engaging and challenging projects. Special thanks to the course instructors and teaching assistants for their support.
 
-Thanks to Harvard's CS50 course for the engaging and challenging projects.
-Special thanks to the course instructors and teaching assistants for their support.
-
-##Contact
+Contact
 For any questions or feedback, feel free to reach out to me on GitHub.
