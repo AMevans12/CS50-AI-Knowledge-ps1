@@ -17,16 +17,16 @@ The Knights problem involves solving a logical puzzle using propositional logic 
 
 The Minesweeper project replicates the classic Minesweeper game using AI techniques. The AI plays the game by making safe moves and inferring the locations of mines based on the numbers revealed.
 
-#### Key Features
+Key Features
 - Implements a Minesweeper game environment.
 - Uses logical inference to determine safe moves and mine locations.
 - Demonstrates AI techniques in a game-playing context.
 
 
-####Navigate to the project directory:
+Navigate to the project directory:
 cd Knowledge
 
-####Run the Knights project:
+Run the Knights project:
 python knights.py
 
 ####Run the Minesweeper project:
@@ -39,18 +39,18 @@ python minesweeper.py
    git clone https://github.com/yourusername/Knowledge.git
 
 
-####Contributing
+##Contributing
 
 If you would like to contribute to the projects or suggest improvements, please create a pull request or open an issue.
 
-####License
+##License
 
 This repository is licensed under the MIT License. See the LICENSE file for more details.
 
-####Acknowledgments
+##Acknowledgments
 
 Thanks to Harvard's CS50 course for the engaging and challenging projects.
 Special thanks to the course instructors and teaching assistants for their support.
 
-####Contact
+##Contact
 For any questions or feedback, feel free to reach out to me on GitHub.
